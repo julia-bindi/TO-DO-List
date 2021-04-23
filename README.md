@@ -1,7 +1,6 @@
 # TO-DO-List
 
 Site elaborado com a finalidade de listar as tarefas pendentes e concluídas
-
 ## Botões disponíveis na tarefa 
 
 - Coluna de tarefas pendentes
