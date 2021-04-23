@@ -1,6 +1,6 @@
 # TO-DO-List
 
-Site elaborado com a finalinalidade de listar as tarefaz pendentes e concluídas
+Site elaborado com a finalidade de listar as tarefas pendentes e concluídas
 
 ## Botões disponíveis na tarefa 
 
